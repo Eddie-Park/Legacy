@@ -1,0 +1,1193 @@
+[Project Header]
+Version = 1000
+Pathname = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/genisys4.prj"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2010"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2010"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Files = 65
+Target Type = "Executable"
+Flags = 16
+Copied From Locked InstrDrv Directory = False
+Copied from VXIPNP Directory = False
+Locked InstrDrv Name = ""
+Don't Display Deploy InstrDrv Dialog = False
+
+[File 0001]
+File Type = "CSource"
+Res Id = 1
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "acquisitionManagement.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/acquisitionManagement.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0002]
+File Type = "Include"
+Res Id = 2
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "acquisitionManagement.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/acquisitionManagement.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0003]
+File Type = "CSource"
+Res Id = 3
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "cameraManagement.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/cameraManagement.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0004]
+File Type = "Include"
+Res Id = 4
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "cameraManagement.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/cameraManagement.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0005]
+File Type = "Include"
+Res Id = 5
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "commonHeader.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/commonHeader.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0006]
+File Type = "CSource"
+Res Id = 6
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "communicationsManagement.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/communicationsManagement.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0007]
+File Type = "Include"
+Res Id = 7
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "communicationsManagement.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/communicationsManagement.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0008]
+File Type = "Include"
+Res Id = 8
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "constants.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/constants.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0009]
+File Type = "Unknown"
+Res Id = 9
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "conversion1276.exe"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/conversion1276.exe"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0010]
+File Type = "Unknown"
+Res Id = 10
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "CSM-Trunk_OrgOut-2-21-1_v6749_OrgIn-9-18-16-190-191_v4527.atl"
+Path Line0001 = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/CSM-Trunk_OrgOut-2-21-1_v6749_O"
+Path Line0002 = "rgIn-9-18-16-190-191_v4527.atl"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0011]
+File Type = "Unknown"
+Res Id = 11
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "dicom.exe"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/dicom.exe"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0012]
+File Type = "Unknown"
+Res Id = 12
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "dicomCT.exe"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/dicomCT.exe"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0013]
+File Type = "CSource"
+Res Id = 13
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "export.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/export.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0014]
+File Type = "Include"
+Res Id = 14
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "export.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/export.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0015]
+File Type = "DLL"
+Res Id = 15
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FlyCapture2.dll"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/FlyCapture2.dll"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0016]
+File Type = "DLL"
+Res Id = 16
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FlyCapture2_C.dll"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/FlyCapture2_C.dll"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0017]
+File Type = "Include"
+Res Id = 17
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FlyCapture2_C.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/FlyCapture2_C.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0018]
+File Type = "Library"
+Res Id = 18
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FlyCapture2_C.lib"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/FlyCapture2_C.lib"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0019]
+File Type = "Include"
+Res Id = 19
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FlyCapture2Defs_C.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/FlyCapture2Defs_C.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0020]
+File Type = "Include"
+Res Id = 20
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FlyCapture2Platform_C.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/FlyCapture2Platform_C.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0021]
+File Type = "DLL"
+Res Id = 21
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "flyiomp5md.dll"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/flyiomp5md.dll"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0022]
+File Type = "CSource"
+Res Id = 22
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "frameSeqStateMac.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/frameSeqStateMac.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0023]
+File Type = "Include"
+Res Id = 23
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "frameSeqStateMac.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/frameSeqStateMac.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0024]
+File Type = "DLL"
+Res Id = 24
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "G4_Init_XrayCam.dll"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/G4_Init_XrayCam.dll"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0025]
+File Type = "DLL"
+Res Id = 25
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "G4_Reg_XrayCam.dll"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/G4_Reg_XrayCam.dll"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0026]
+File Type = "CSource"
+Res Id = 26
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "genisys4GUI.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/genisys4GUI.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0027]
+File Type = "Include"
+Res Id = 27
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "genisys4GUI.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/genisys4GUI.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0028]
+File Type = "User Interface Resource"
+Res Id = 28
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "genisys4GUI.uir"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/genisys4GUI.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0029]
+File Type = "Include"
+Res Id = 29
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "genisys4GUIUser.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/genisys4GUIUser.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0030]
+File Type = "User Interface Resource"
+Res Id = 30
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "genisys4GUIUser.uir"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/genisys4GUIUser.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0031]
+File Type = "Include"
+Res Id = 31
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "globalDecls.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/globalDecls.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0032]
+File Type = "Include"
+Res Id = 32
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "globalDefs.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/globalDefs.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0033]
+File Type = "Unknown"
+Res Id = 33
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "histogram.exe"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/histogram.exe"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0034]
+File Type = "CSource"
+Res Id = 34
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "logManagement.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/logManagement.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0035]
+File Type = "Include"
+Res Id = 35
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "logManagement.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/logManagement.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0036]
+File Type = "CSource"
+Res Id = 36
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "menuManagement.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/menuManagement.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0037]
+File Type = "Include"
+Res Id = 37
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "menuManagement.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/menuManagement.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0038]
+File Type = "CSource"
+Res Id = 38
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "monitorManagement.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/monitorManagement.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0039]
+File Type = "Include"
+Res Id = 39
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "monitorManagement.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/monitorManagement.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0040]
+File Type = "Unknown"
+Res Id = 40
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "PGRIdleStateFix.exe"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/PGRIdleStateFix.exe"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0041]
+File Type = "CSource"
+Res Id = 41
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "preferenceManagement.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/preferenceManagement.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0042]
+File Type = "Include"
+Res Id = 42
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "preferenceManagement.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/preferenceManagement.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0043]
+File Type = "CSource"
+Res Id = 43
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "protocolEdit.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/protocolEdit.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0044]
+File Type = "Include"
+Res Id = 44
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "protocolEdit.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/protocolEdit.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0045]
+File Type = "CSource"
+Res Id = 45
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "protocolTreeManagement.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/protocolTreeManagement.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0046]
+File Type = "Include"
+Res Id = 46
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "protocolTreeManagement.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/protocolTreeManagement.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0047]
+File Type = "Unknown"
+Res Id = 47
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Recon.exe"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/Recon.exe"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0048]
+File Type = "CSource"
+Res Id = 48
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "runManagement.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/runManagement.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0049]
+File Type = "Include"
+Res Id = 49
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "runManagement.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/runManagement.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0050]
+File Type = "CSource"
+Res Id = 50
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "scriptManagement.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/scriptManagement.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0051]
+File Type = "Include"
+Res Id = 51
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "scriptManagement.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/scriptManagement.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0052]
+File Type = "Unknown"
+Res Id = 52
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "SSM_Org-2-21-1_Sbj1to118_v6749_LegsStreched.atl"
+Path Line0001 = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/SSM_Org-2-21-1_Sbj1to118_v6749_"
+Path Line0002 = "LegsStreched.atl"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0053]
+File Type = "CSource"
+Res Id = 53
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "studyEdit.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/studyEdit.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0054]
+File Type = "Include"
+Res Id = 54
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "studyEdit.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/studyEdit.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0055]
+File Type = "CSource"
+Res Id = 55
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "studyTreeManagement.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/studyTreeManagement.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0056]
+File Type = "Include"
+Res Id = 56
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "studyTreeManagement.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/studyTreeManagement.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0057]
+File Type = "Include"
+Res Id = 57
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "timeRing.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/timeRing.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0058]
+File Type = "CSource"
+Res Id = 58
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "timeRings.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/timeRings.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0059]
+File Type = "Include"
+Res Id = 59
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "typedefs.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/typedefs.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0060]
+File Type = "CSource"
+Res Id = 60
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "utilities.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/utilities.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0061]
+File Type = "Include"
+Res Id = 61
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "utilities.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/utilities.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0062]
+File Type = "Unknown"
+Res Id = 62
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "X_Ray_Atlas_Registration.exe"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/X_Ray_Atlas_Registration.exe"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[File 0063]
+File Type = "Include"
+Res Id = 63
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "xrayDaemon.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/xrayDaemon.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0064]
+File Type = "CSource"
+Res Id = 64
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "xrayDaemonManagement.c"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/xrayDaemonManagement.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0065]
+File Type = "Include"
+Res Id = 65
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "xrayDaemonManagement.h"
+Path = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/xrayDaemonManagement.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[Folders]
+Instrument Files Folder Not Added Yet = True
+Folder 0 = "User Interface Files"
+Folder 1 = "Source Files"
+Folder 2 = "Include Files"
+
+[Custom Build Configs]
+Num Custom Build Configs = 0
+
+[Default Build Config Debug]
+Config Name = "Debug"
+Is 64-Bit = False
+Is Release = False
+Default Calling Convention = "cdecl"
+Uninitialized Locals Compile Warning = "Aggressive"
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = True
+Enable Unreachable Code Warning = True
+Enable Unreferenced Identifiers Warning = True
+Enable Assignment In Conditional Warning = False
+Enable C99 Extensions = True
+Stack Size = 250000
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+Sign = False
+Sign Store = ""
+Sign Certificate = ""
+Sign Timestamp URL = ""
+Sign URL = ""
+Manifest Embed = False
+Icon File Is Rel = False
+Icon File = ""
+Application Title = ""
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Runtime Support = "Full Runtime Support"
+Embed Project .UIRs = False
+Generate Map File = False
+Create Console Application = False
+Using LoadExternalModule = False
+DLL Exports = "Include File Symbols"
+Register ActiveX Server = False
+Numeric File Version = "1,0,0,0"
+Numeric Prod Version = "1,0,0,0"
+Comments = ""
+Comments Ex = ""
+Company Name = "Microsoft"
+Company Name Ex = "%company"
+File Description = "genisys4 (Debug x86)"
+File Description Ex = "%application (%rel_dbg %arch)"
+File Version = "1.0"
+File Version Ex = "%f1.%f2"
+Internal Name = "genisys4"
+Internal Name Ex = "%basename"
+Legal Copyright = "Copyright © Microsoft 2012"
+Legal Copyright Ex = "Copyright © %company %Y"
+Legal Trademarks = ""
+Legal Trademarks Ex = ""
+Original Filename = "genisys4.exe"
+Original Filename Ex = "%filename"
+Private Build = ""
+Private Build Ex = ""
+Product Name = "Microsoft genisys4"
+Product Name Ex = "%company %application"
+Product Version = "1.0"
+Product Version Ex = "%p1.%p2"
+Special Build = ""
+Special Build Ex = ""
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+
+[Default Build Config Release]
+Config Name = "Release"
+Is 64-Bit = False
+Is Release = True
+Default Calling Convention = "cdecl"
+Uninitialized Locals Compile Warning = "Aggressive"
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = True
+Enable Unreachable Code Warning = True
+Enable Unreferenced Identifiers Warning = True
+Enable Assignment In Conditional Warning = False
+Enable C99 Extensions = True
+Stack Size = 250000
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+Sign = False
+Sign Store = ""
+Sign Certificate = ""
+Sign Timestamp URL = ""
+Sign URL = ""
+Manifest Embed = False
+Icon File Is Rel = True
+Icon File Rel To = "Project"
+Icon File Rel Path = "genisys.ico"
+Icon File = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/genisys.ico"
+Application Title = ""
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Runtime Support = "Full Runtime Support"
+Embed Project .UIRs = False
+Generate Map File = False
+Create Console Application = False
+Using LoadExternalModule = False
+DLL Exports = "Include File Symbols"
+Register ActiveX Server = False
+Numeric File Version = "1,0,0,0"
+Numeric Prod Version = "1,0,0,0"
+Comments = ""
+Comments Ex = ""
+Company Name = "Microsoft"
+Company Name Ex = "%company"
+File Description = "genisys4 (Release x86)"
+File Description Ex = "%application (%rel_dbg %arch)"
+File Version = "1.0"
+File Version Ex = "%f1.%f2"
+Internal Name = "genisys4"
+Internal Name Ex = "%basename"
+Legal Copyright = "Copyright © Microsoft 2012"
+Legal Copyright Ex = "Copyright © %company %Y"
+Legal Trademarks = ""
+Legal Trademarks Ex = ""
+Original Filename = "genisys4.exe"
+Original Filename Ex = "%filename"
+Private Build = ""
+Private Build Ex = ""
+Product Name = "Microsoft genisys4"
+Product Name Ex = "%company %application"
+Product Version = "1.0"
+Product Version Ex = "%p1.%p2"
+Special Build = ""
+Special Build Ex = ""
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+
+[Default Build Config Debug64]
+Config Name = "Debug64"
+Is 64-Bit = True
+Is Release = False
+Default Calling Convention = "cdecl"
+Uninitialized Locals Compile Warning = "Aggressive"
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = True
+Enable Unreachable Code Warning = True
+Enable Unreferenced Identifiers Warning = True
+Enable Assignment In Conditional Warning = False
+Enable C99 Extensions = True
+Stack Size = 250000
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+Sign = False
+Sign Store = ""
+Sign Certificate = ""
+Sign Timestamp URL = ""
+Sign URL = ""
+Manifest Embed = False
+Icon File Is Rel = False
+Icon File = ""
+Application Title = ""
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Runtime Support = "Full Runtime Support"
+Embed Project .UIRs = True
+Generate Map File = False
+Create Console Application = False
+Using LoadExternalModule = False
+DLL Exports = "Include File Symbols"
+Register ActiveX Server = False
+Numeric File Version = "1,0,0,0"
+Numeric Prod Version = "1,0,0,0"
+Comments = ""
+Comments Ex = ""
+Company Name = "Microsoft"
+Company Name Ex = "%company"
+File Description = "genisys4 (Debug x64)"
+File Description Ex = "%application (%rel_dbg %arch)"
+File Version = "1.0"
+File Version Ex = "%f1.%f2"
+Internal Name = "genisys4"
+Internal Name Ex = "%basename"
+Legal Copyright = "Copyright © Microsoft 2012"
+Legal Copyright Ex = "Copyright © %company %Y"
+Legal Trademarks = ""
+Legal Trademarks Ex = ""
+Original Filename = "genisys4.exe"
+Original Filename Ex = "%filename"
+Private Build = ""
+Private Build Ex = ""
+Product Name = "Microsoft genisys4"
+Product Name Ex = "%company %application"
+Product Version = "1.0"
+Product Version Ex = "%p1.%p2"
+Special Build = ""
+Special Build Ex = ""
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+
+[Default Build Config Release64]
+Config Name = "Release64"
+Is 64-Bit = True
+Is Release = True
+Default Calling Convention = "cdecl"
+Uninitialized Locals Compile Warning = "Aggressive"
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = True
+Enable Unreachable Code Warning = True
+Enable Unreferenced Identifiers Warning = True
+Enable Assignment In Conditional Warning = False
+Enable C99 Extensions = True
+Stack Size = 250000
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+Sign = False
+Sign Store = ""
+Sign Certificate = ""
+Sign Timestamp URL = ""
+Sign URL = ""
+Manifest Embed = False
+Icon File Is Rel = True
+Icon File Rel To = "Project"
+Icon File Rel Path = "genisys.ico"
+Icon File = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/genisys.ico"
+Application Title = "Genisys 4"
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Runtime Support = "Full Runtime Support"
+Embed Project .UIRs = True
+Generate Map File = False
+Create Console Application = False
+Using LoadExternalModule = True
+DLL Exports = "Include File Symbols"
+Register ActiveX Server = False
+Numeric File Version = "1,2,9,2"
+Numeric Prod Version = "2,0,0,0"
+Comments = " Built by rtaschereau on 09/25/2012 at 13:18:57"
+Comments Ex = " Built by %user on %m/%d/%Y at %H:%M:%S"
+Company Name = "Sofie BioSciences Inc."
+Company Name Ex = "Sofie BioSciences Inc."
+File Description = "Genisys 4 (Release build,  x64)"
+File Description Ex = "%application (%rel_dbg build,  %arch)"
+File Version = "1.2.9.2"
+File Version Ex = "%f1.%f2.%f3.%f4"
+Internal Name = "genisys4"
+Internal Name Ex = "%basename"
+Legal Copyright = "Copyright © Sofie BioSciences Inc 2012"
+Legal Copyright Ex = "Copyright © Sofie BioSciences Inc %Y"
+Legal Trademarks = ""
+Legal Trademarks Ex = ""
+Original Filename = "genisys4.exe"
+Original Filename Ex = "%filename"
+Private Build = ""
+Private Build Ex = ""
+Product Name = "Sofie BioSciences Inc Genisys 4"
+Product Name Ex = "Sofie BioSciences Inc %application"
+Product Version = "2.0"
+Product Version Ex = "%p1.%p2"
+Special Build = ""
+Special Build Ex = ""
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+
+[Compiler Options]
+Default Calling Convention = "cdecl"
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = True
+Enable Unreachable Code Warning = True
+Enable Unreferenced Identifiers Warning = True
+Enable Assignment In Conditional Warning = False
+O Option Compatible With 5.0 = False
+Enable C99 Extensions = True
+Uninitialized Locals Compile Warning = "Aggressive"
+Precompile Prefix Header = False
+Prefix Header File = ""
+
+[Run Options]
+Stack Size = 250000
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+
+[Compiler Defines]
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+
+[Create Executable]
+Executable File_Debug Is Rel = True
+Executable File_Debug Rel To = "Project"
+Executable File_Debug Rel Path = "genisys4.exe"
+Executable File_Debug = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/genisys4.exe"
+Executable File_Release Is Rel = True
+Executable File_Release Rel To = "Project"
+Executable File_Release Rel Path = "genisys4.exe"
+Executable File_Release = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/genisys4.exe"
+Executable File_Debug64 Is Rel = True
+Executable File_Debug64 Rel To = "Project"
+Executable File_Debug64 Rel Path = "genisys4.exe"
+Executable File_Debug64 = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/genisys4.exe"
+Executable File_Release64 Is Rel = True
+Executable File_Release64 Rel To = "Project"
+Executable File_Release64 Rel Path = "genisys4.exe"
+Executable File_Release64 = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/genisys4.exe"
+Icon File Is Rel = True
+Icon File Rel To = "Project"
+Icon File Rel Path = "genisys.ico"
+Icon File = "/c/Users/rtaschereau/Documents/GENISYS4_GUI 1292/genisys.ico"
+Application Title = ""
+Numeric File Version = "1,0,0,0"
+Numeric Prod Version = "1,0,0,0"
+Comments = ""
+Comments Ex = ""
+Company Name = "Microsoft"
+Company Name Ex = "%company"
+File Description = "genisys4 (Release x86)"
+File Description Ex = "%application (%rel_dbg %arch)"
+File Version = "1.0"
+File Version Ex = "%f1.%f2"
+Internal Name = "genisys4"
+Internal Name Ex = "%basename"
+Legal Copyright = "Copyright © Microsoft 2012"
+Legal Copyright Ex = "Copyright © %company %Y"
+Legal Trademarks = ""
+Legal Trademarks Ex = ""
+Original Filename = "genisys4.exe"
+Original Filename Ex = "%filename"
+Private Build = ""
+Private Build Ex = ""
+Product Name = "Microsoft genisys4"
+Product Name Ex = "%company %application"
+Product Version = "1.0"
+Product Version Ex = "%p1.%p2"
+Special Build = ""
+Special Build Ex = ""
+DLL Exports = "Include File Symbols"
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+Type Lib Guid = ""
+Runtime Support = "Full Runtime Support"
+Instrument Driver Support Only = False
+Embed Project .UIRs = False
+Generate Map File = False
+
+[External Compiler Support]
+UIR Callbacks File Option = 0
+Using LoadExternalModule = False
+Create Project Symbols File = True
+UIR Callbacks Obj File Is Rel = False
+UIR Callbacks Obj File = ""
+Project Symbols H File Is Rel = False
+Project Symbols H File = ""
+Project Symbols Obj File Is Rel = False
+Project Symbols Obj File = ""
+
+[Modules Forced Into Executable]
+Module 0001 Is Rel = False
+Module 0001 = "analysis.lib"
+
+[ActiveX Server Options]
+Specification File Is Rel = False
+Specification File = ""
+Source File Is Rel = False
+Source File = ""
+Include File Is Rel = False
+Include File = ""
+IDL File Is Rel = False
+IDL File = ""
+Register ActiveX Server = False
+
+[Signing Info]
+Sign = False
+Sign Debug Build = False
+Store = ""
+Certificate = ""
+Timestamp URL = ""
+URL = ""
+
+[Manifest Info]
+Embed = False
+
+[tpcSection]
+tpcEnabled = 0
+tpcOverrideEnvironment = 0
+tpcEnabled x64 = 0
+tpcOverrideEnvironment x64 = 0
+

@@ -1,0 +1,677 @@
+[Workspace Header]
+Version = 1000
+Pathname = "/c/Users/eddie/Sofie/daemon_sims/client/genisys4.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2010"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2010"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "genisys4.prj"
+Drag Bar Left = 305
+Window Top = 95
+Window Left = 99
+Window Bottom = 1019
+Window Right = 1532
+Maximized = False
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 0
+Window Confinement Region Enabled = True
+MainColumnWidth = 288
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 1000
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Release64"
+Warn User If Debugging Release = 0
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/studyEdit.c"
+File Type = "CSource"
+Disk Date = 3412292552
+In Projects = "1,"
+Window Top = 86
+Window Left = 39
+Source Window State = "1,165,165,165,0,11,11,0,0,80,0,140,0,0,0,24,158,64,170,126,347,713,1,11,"
+
+[File 0002]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/constants.h"
+File Type = "Include"
+Disk Date = 3407267246
+In Projects = "1,"
+Window Top = 130
+Window Left = 103
+Source Window State = "1,22,22,22,8,23,23,0,0,80,0,0,0,0,0,24,24,0,19,15,347,713,1,0,"
+
+[File 0003]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/genisys4GUI.c"
+File Type = "CSource"
+Disk Date = 3428684782
+In Projects = "1,"
+Window Top = 36
+Source Window State = "1,24,24,24,39,54,39,0,0,80,0,0,0,0,0,24,177,0,203,46,347,713,1,0,"
+
+[File 0004]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/globalDefs.h"
+File Type = "Include"
+Disk Date = 3412370526
+In Projects = "1,"
+Window Top = 36
+Window Left = 7
+Source Window State = "1,85,85,85,5,16,16,0,0,80,0,0,0,0,0,19,149,0,158,5,282,713,1,0,"
+
+[File 0005]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/monitorManagement.c"
+File Type = "CSource"
+Disk Date = 3419618500
+In Projects = "1,"
+Window Top = 130
+Window Left = 119
+Source Window State = "1,127,130,127,0,47,0,0,0,80,0,0,0,0,0,24,0,0,9,47,347,713,1,0,"
+
+[File 0006]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/runManagement.c"
+File Type = "CSource"
+Disk Date = 3415384906
+In Projects = "1,"
+Window Top = 130
+Window Left = 183
+Source Window State = "1,917,920,917,0,0,0,0,0,80,0,0,0,0,0,24,814,0,805,82,347,713,1,0,"
+
+[File 0007]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/studyEdit.h"
+File Type = "Include"
+Disk Date = 3412291070
+In Projects = "1,"
+Window Top = 36
+Window Left = 7
+Source Window State = "1,28,29,29,0,55,55,0,0,80,0,0,0,0,0,24,10,0,23,0,347,713,1,0,"
+
+[File 0008]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/studyTreeManagement.c"
+File Type = "CSource"
+Disk Date = 3428685176
+In Projects = "1,"
+Window Top = 116
+Window Left = 55
+Source Window State = "1,337,338,337,0,0,0,0,0,80,0,0,0,0,0,24,291,0,322,66,347,713,1,0,"
+
+[File 0009]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/typedefs.h"
+File Type = "Include"
+Disk Date = 3407449916
+In Projects = "1,"
+Window Top = 130
+Window Left = 71
+Source Window State = "1,66,66,66,9,20,20,0,3,80,0,0,0,0,0,24,0,0,66,9,347,713,1,0,"
+
+[File 0010]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/utilities.c"
+File Type = "CSource"
+Disk Date = 3426693184
+In Projects = "1,"
+Window Top = 36
+Window Left = 7
+Source Window State = "1,108,108,108,20,21,20,0,0,80,0,0,0,0,0,24,62,0,110,41,347,713,1,0,"
+
+[File 0011]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/genisys4GUI.uir"
+File Type = "User Interface Resource"
+Disk Date = 3431449548
+In Projects = "1,"
+Window Top = 36
+Window Left = 6
+Window Height = 356
+Window Width = 715
+
+[File 0012]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/menuManagement.c"
+File Type = "CSource"
+Disk Date = 3412291078
+In Projects = "1,"
+Window Top = 130
+Window Left = 103
+Source Window State = "1,282,282,282,26,39,39,0,0,80,0,0,0,0,0,24,472,0,483,95,347,713,1,0,"
+
+[File 0013]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/preferenceManagement.c"
+File Type = "CSource"
+Disk Date = 3407514916
+In Projects = "1,"
+Window Top = 86
+Window Left = 39
+Source Window State = "1,160,161,160,30,30,30,0,0,80,0,0,0,0,0,24,168,0,180,62,347,713,1,0,"
+
+[File 0014]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/protocolEdit.c"
+File Type = "CSource"
+Disk Date = 3412034910
+In Projects = "1,"
+Window Top = 130
+Window Left = 135
+Source Window State = "1,148,148,148,4,17,17,0,0,80,0,0,0,0,0,24,0,0,23,75,347,713,1,0,"
+
+[File 0015]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/communicationsManagement.c"
+File Type = "CSource"
+Disk Date = 3412180894
+In Projects = "1,"
+Window Top = 36
+Window Left = 10
+Source Window State = "1,72,72,72,76,77,76,0,0,76,0,0,0,0,0,25,92,0,113,55,349,683,1,0,"
+
+[File 0016]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/protocolEdit.h"
+File Type = "Include"
+Disk Date = 3381961614
+In Projects = "1,"
+Window Top = 130
+Window Left = 71
+Source Window State = "1,25,25,25,5,17,17,0,3,80,0,0,0,0,0,24,17,0,25,5,347,713,1,0,"
+
+[File 0017]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/protocolTreeManagement.c"
+File Type = "CSource"
+Disk Date = 3413303700
+In Projects = "1,"
+Window Top = 130
+Window Left = 167
+Source Window State = "1,39,40,39,0,0,0,0,0,80,0,0,0,0,0,24,18,0,38,0,347,713,1,0,"
+
+[File 0018]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/runManagement.h"
+File Type = "Include"
+Disk Date = 3355851442
+In Projects = "1,"
+Window Top = 36
+Window Left = 10
+Source Window State = "1,23,23,23,17,38,38,0,3,132,0,0,0,0,0,45,17,0,23,17,193,683,1,0,"
+
+[File 0019]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/xrayDaemonManagement.c"
+File Type = "CSource"
+Disk Date = 3415292774
+In Projects = "1,"
+Window Top = 36
+Window Left = 10
+Source Window State = "1,368,369,368,0,0,0,0,0,76,0,0,0,0,0,25,311,53,323,114,349,683,1,0,"
+
+[File 0020]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/logManagement.c"
+File Type = "CSource"
+Disk Date = 3400343308
+In Projects = "1,"
+Window Top = 130
+Window Left = 119
+Source Window State = "1,37,37,37,67,88,67,0,0,80,0,0,0,0,0,24,25,0,60,142,347,713,1,0,"
+
+[File 0021]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/cameraManagement.c"
+File Type = "CSource"
+Disk Date = 3419511844
+In Projects = "1,"
+Window Top = 116
+Window Left = 55
+Source Window State = "1,286,286,286,4,27,27,0,0,80,0,0,0,0,0,24,266,0,284,51,347,713,1,0,"
+
+[File 0022]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/xrayDaemon.h"
+File Type = "Include"
+Disk Date = 3409169356
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Source Window State = "1,171,171,171,9,27,9,0,0,76,0,0,0,0,0,25,132,0,164,136,349,683,1,0,"
+
+[File 0023]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/xrayDaemonManagement.h"
+File Type = "Include"
+Disk Date = 3399395630
+In Projects = "1,"
+Window Top = 130
+Window Left = 106
+Source Window State = "1,21,21,21,8,31,31,0,0,76,0,30,0,30,0,25,0,0,25,7,349,683,1,0,"
+
+[File 0024]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/frameSeqStateMac.c"
+File Type = "CSource"
+Disk Date = 3386612224
+In Projects = "1,"
+Window Top = 130
+Window Left = 151
+Source Window State = "1,45,46,45,106,105,106,0,0,80,0,0,0,0,0,24,43,0,52,139,347,713,1,0,"
+
+[File 0025]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/globalDecls.h"
+File Type = "Include"
+Disk Date = 3412370524
+In Projects = "1,"
+Window Top = 130
+Window Left = 87
+Source Window State = "1,201,201,201,20,74,20,0,0,80,0,0,0,0,0,24,40,0,52,7,347,713,1,0,"
+
+[File 0026]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/FlyCapture2_C.h"
+File Type = "Include"
+Disk Date = 3364225940
+In Projects = "1,"
+Window Top = 36
+Window Left = 10
+Source Window State = "1,0,0,0,0,0,0,0,0,76,0,0,0,0,0,16,972,0,1005,27,232,683,1,0,"
+
+[File 0027]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/commonHeader.h"
+File Type = "Include"
+Disk Date = 3340208950
+In Projects = "1,"
+Window Top = 36
+Window Left = 7
+Source Window State = "1,65,65,65,7,25,25,0,0,80,0,0,0,0,0,24,25,0,16,48,347,713,1,0,"
+
+[File 0028]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/utilities.h"
+File Type = "Include"
+Disk Date = 3412289596
+In Projects = "1,"
+Window Top = 116
+Window Left = 55
+Source Window State = "1,83,83,83,52,53,52,0,0,80,0,0,0,0,0,24,22,0,83,53,347,713,1,0,"
+
+[File 0029]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/acquisitionManagement.c"
+File Type = "CSource"
+Disk Date = 3410986098
+In Projects = "1,"
+Window Top = 86
+Window Left = 39
+Source Window State = "1,107,107,107,15,17,17,0,0,80,0,0,0,0,0,24,50,0,60,129,347,713,1,0,"
+
+[File 0030]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/scriptManagement.c"
+File Type = "CSource"
+Disk Date = 3392722998
+In Projects = "1,"
+Window Top = 56
+Window Left = 23
+Source Window State = "1,96,96,96,4,7,7,0,0,80,0,0,0,0,0,24,154,0,174,33,347,713,1,0,"
+
+[File 0031]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/preferenceManagement.h"
+File Type = "Include"
+Disk Date = 3407514934
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Source Window State = "1,26,26,26,41,42,41,0,0,76,0,0,0,0,0,25,0,0,26,42,349,683,1,0,"
+
+[File 0032]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/timeRing.h"
+File Type = "Include"
+Disk Date = 3407529330
+In Projects = "1,"
+Window Top = 130
+Window Left = 90
+Source Window State = "1,43,43,43,23,25,23,0,0,76,0,0,0,0,0,25,8,0,21,49,349,683,1,0,"
+
+[File 0033]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/timeRings.c"
+File Type = "CSource"
+Disk Date = 3412091470
+In Projects = "1,"
+Window Top = 130
+Window Left = 74
+Source Window State = "1,204,204,204,16,23,23,0,0,76,0,0,0,0,0,25,214,31,226,90,349,683,1,0,"
+
+[File 0034]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/genisys4GUIUser.h"
+File Type = "Include"
+Disk Date = 3431449932
+In Projects = "1,"
+Window Top = 130
+Window Left = 106
+Source Window State = "1,226,226,226,42,44,44,0,0,76,0,0,0,0,0,25,215,0,227,63,349,683,1,0,"
+
+[File 0035]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/genisys4GUI.h"
+File Type = "Include"
+Disk Date = 3431449548
+In Projects = "1,"
+Window Top = 130
+Window Left = 135
+Source Window State = "1,225,225,225,9,23,23,0,0,80,0,210,0,0,0,24,229,96,241,158,347,713,1,0,"
+
+[File 0036]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/export.c"
+File Type = "CSource"
+Disk Date = 3392395312
+In Projects = "1,"
+Window Top = 130
+Window Left = 87
+Source Window State = "1,56,56,56,22,42,42,0,0,80,0,0,0,0,0,24,70,0,155,40,347,713,1,0,"
+
+[File 0037]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/studyTreeManagement.h"
+File Type = "Include"
+Disk Date = 3412292274
+In Projects = "1,"
+Window Top = 56
+Window Left = 23
+Source Window State = "1,22,22,22,0,7,7,0,0,80,0,0,0,0,0,24,0,0,22,0,347,713,1,0,"
+
+[File 0038]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/genisys4GUIUser.uir"
+File Type = "User Interface Resource"
+Disk Date = 3431449932
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Height = 349
+Window Width = 683
+
+[File 0039]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/FlyCapture2Defs_C.h"
+File Type = "Include"
+Disk Date = 3362496026
+In Projects = "1,"
+Window Top = 36
+Window Left = 10
+Source Window State = "1,588,588,588,4,11,11,0,3,76,0,0,0,0,0,13,578,0,588,4,193,683,1,0,"
+
+[File 0040]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/acquisitionManagement.h"
+File Type = "Include"
+Disk Date = 3335963218
+In Projects = "1,"
+Window Top = 30
+Window Left = 7
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,347,713,1,0,"
+
+[File 0041]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/cameraManagement.h"
+File Type = "Include"
+Disk Date = 3392406308
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Source Window State = "1,23,23,23,5,23,23,0,3,0,0,0,0,0,0,0,6,0,23,5,349,683,1,0,"
+
+[File 0042]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/communicationsManagement.h"
+File Type = "Include"
+Disk Date = 3338322420
+In Projects = "1,"
+Window Top = 30
+Window Left = 7
+Source Window State = "1,21,21,21,5,33,33,0,3,0,0,0,0,0,0,0,0,0,21,5,347,713,1,0,"
+
+[File 0043]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/conversion1276.exe"
+File Type = "Unknown"
+Disk Date = 3412802570
+In Projects = "1,"
+
+[File 0044]
+Path Line0001 = "/c/Users/eddie/Sofie/daemon_sims/client/CSM-Trunk_OrgOut-2-21-1_v6749_OrgIn-9-18"
+Path Line0002 = "-16-190-191_v4527.atl"
+File Type = "Unknown"
+Disk Date = 0
+In Projects = "1,"
+
+[File 0045]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/dicom.exe"
+File Type = "Unknown"
+Disk Date = 3431447178
+In Projects = "1,"
+
+[File 0046]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/dicomCT.exe"
+File Type = "Unknown"
+Disk Date = 3415292162
+In Projects = "1,"
+
+[File 0047]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/export.h"
+File Type = "Include"
+Disk Date = 3355920208
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0048]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/FlyCapture2.dll"
+File Type = "DLL"
+Disk Date = 3403711792
+In Projects = "1,"
+
+[File 0049]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/FlyCapture2_C.dll"
+File Type = "DLL"
+Disk Date = 3379719258
+In Projects = "1,"
+
+[File 0050]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/FlyCapture2_C.lib"
+File Type = "Library"
+Disk Date = 3379717182
+In Projects = "1,"
+
+[File 0051]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/FlyCapture2Platform_C.h"
+File Type = "Include"
+Disk Date = 3364570200
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0052]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/flyiomp5md.dll"
+File Type = "DLL"
+Disk Date = 3379719258
+In Projects = "1,"
+
+[File 0053]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/frameSeqStateMac.h"
+File Type = "Include"
+Disk Date = 3335441392
+In Projects = "1,"
+Window Top = 146
+Window Left = 71
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,347,713,1,0,"
+
+[File 0054]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/G4_Init_XrayCam.dll"
+File Type = "DLL"
+Disk Date = 3403614278
+In Projects = "1,"
+
+[File 0055]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/G4_Reg_XrayCam.dll"
+File Type = "DLL"
+Disk Date = 3407997952
+In Projects = "1,"
+
+[File 0056]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/histogram.exe"
+File Type = "Unknown"
+Disk Date = 3431447156
+In Projects = "1,"
+
+[File 0057]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/logManagement.h"
+File Type = "Include"
+Disk Date = 3349706732
+In Projects = "1,"
+Window Top = 182
+Window Left = 90
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,349,683,1,0,"
+
+[File 0058]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/menuManagement.h"
+File Type = "Include"
+Disk Date = 3335441392
+In Projects = "1,"
+Window Top = 30
+Window Left = 7
+Source Window State = "1,23,23,23,5,26,26,0,3,0,0,0,0,0,0,0,0,0,23,5,347,713,1,0,"
+
+[File 0059]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/monitorManagement.h"
+File Type = "Include"
+Disk Date = 3392643276
+In Projects = "1,"
+Window Top = 30
+Window Left = 6
+Source Window State = "1,24,25,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,349,715,1,0,"
+
+[File 0060]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/PGRIdleStateFix.exe"
+File Type = "Unknown"
+Disk Date = 3379719220
+In Projects = "1,"
+
+[File 0061]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/protocolTreeManagement.h"
+File Type = "Include"
+Disk Date = 3381955020
+In Projects = "1,"
+Window Top = 176
+Window Left = 87
+Source Window State = "1,23,23,23,4,29,29,0,0,0,0,0,0,0,0,0,4,0,10,26,347,713,1,0,"
+
+[File 0062]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/Recon.exe"
+File Type = "Unknown"
+Disk Date = 3412008214
+In Projects = "1,"
+
+[File 0063]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/scriptManagement.h"
+File Type = "Include"
+Disk Date = 3355577762
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0064]
+Path Line0001 = "/c/Users/eddie/Sofie/daemon_sims/client/SSM_Org-2-21-1_Sbj1to118_v6749_LegsStrec"
+Path Line0002 = "hed.atl"
+File Type = "Unknown"
+Disk Date = 0
+In Projects = "1,"
+
+[File 0065]
+Path = "/c/Users/eddie/Sofie/daemon_sims/client/X_Ray_Atlas_Registration.exe"
+File Type = "Unknown"
+Disk Date = 3415131658
+In Projects = "1,"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[DLLs Used By Executable 0001]
+DLL 0001 = "/c/Users/rtaschereau/Dropbox/G4 Acquisition/GENISYS4_GUI 1239/PGRFlyCapture.dll"
+
+[DLLs Used By Executable x64 0001]
+DLL 0001 = "/c/Users/eddie/Sofie/daemon_sims/client/FlyCapture2_C.dll"
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+
+[Distributions]
+Active Index = 1
+AbsCDSPath 0001 = "/c/Users/eddie/Sofie/daemon_sims/client/Genisys4_1.cds"
+RelCDSPath 0001 = "Genisys4_1.cds"
+
