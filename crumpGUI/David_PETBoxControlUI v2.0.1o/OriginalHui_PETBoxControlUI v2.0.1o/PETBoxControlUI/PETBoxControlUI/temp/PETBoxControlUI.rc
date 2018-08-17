@@ -1,0 +1,311 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#include ""res\\PETBoxControlUI.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""     // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\PETBoxControlUI.ico"
+IDI_ICON_Mouse          ICON                    "res\\mouse.ico"
+IDI_ICON1               ICON                    "res\\mouse_about.ico"
+IDI_ICON4               ICON                    "res\\process.ico"
+IDI_ICON5               ICON                    "res\\icon5.ico"
+IDI_ICON6               ICON                    "res\\icon6.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 235, 70
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About PETBoxControlUI"
+FONT 8, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    ICON            IDI_ICON_Mouse,IDC_STATIC,11,9,21,20
+    LTEXT           "PETBoxControlUI Version 1.0",IDC_STATIC,40,10,119,8,SS_NOPREFIX
+    LTEXT           "Written by Hui Zhang.                            Copyright (C) 2009 Imaging Science Lab    Crump Institute For Molecular Imaging,UCLA",IDC_STATIC,40,25,145,30
+    DEFPUSHBUTTON   "OK",IDOK,178,7,50,16,WS_GROUP
+END
+
+IDD_PETBOXCONTROLUI_DIALOG DIALOGEX 0, 0, 442, 360
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "PETBoxControlUI"
+FONT 12, "Arial", 700, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "Exit",IDOK,374,15,33,30,NOT WS_TABSTOP
+    PUSHBUTTON      "About",IDC_AboutBUTTON,328,16,33,30,NOT WS_TABSTOP
+    GROUPBOX        "Data Acquisition Mode",IDC_STATIC,246,109,176,92
+    CONTROL         "Save to File",IDC_CHECK_SavetoFile,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,21,145,49,10
+    GROUPBOX        "FPGA Setup",IDC_STATIC,132,209,291,101
+    EDITTEXT        IDC_EDIT_Acq_Preset_Time,344,141,42,14,ES_AUTOHSCROLL | ES_NUMBER
+    EDITTEXT        IDC_EDIT_Acq_Preset_Counts,344,157,42,14,ES_AUTOHSCROLL | ES_NUMBER | WS_DISABLED
+    CONTROL         "Acquisition by time",IDC_RADIO_Acq_by_Time,"Button",BS_AUTORADIOBUTTON,253,143,83,10
+    CONTROL         "Acquisition by counts",IDC_RADIO_Acq_by_Counts,"Button",BS_AUTORADIOBUTTON | WS_DISABLED,253,159,88,10
+    CONTROL         "Acquisition Free Running",IDC_RADIO_Acq_Free_Running,
+                    "Button",BS_AUTORADIOBUTTON,253,125,106,10
+    LTEXT           "Choose the data acquisition mode as listed above before you start an acquisition.",IDC_STATIC,252,178,159,19
+    PUSHBUTTON      "Start Acquisition",IDC_BUTTON_Start_Acq,109,7,78,44,BS_MULTILINE
+    PUSHBUTTON      "Stop Acquisition",IDC_BUTTON_Stop_Acq,234,7,78,44
+    PUSHBUTTON      "Test",IDC_BUTTON_Test_Acq,7,7,21,18,NOT WS_VISIBLE | WS_DISABLED
+    GROUPBOX        "Acquisition Statistics",IDC_STATIC,16,57,406,44
+    LTEXT           "Elapsed Time:",IDC_STATIC_Elapsed_Time_Name,22,70,68,8
+    LTEXT           "Time TBD",IDC_STATIC_Elapsed_Time,96,70,42,8,0,WS_EX_TRANSPARENT
+    LTEXT           "Prompt Events:",IDC_STATIC,22,86,53,8
+    CTEXT           "Counts TBD",IDC_STATIC_Coinc_Counts,83,86,61,8,0,WS_EX_TRANSPARENT
+    LTEXT           "Prompt Rate(cps):",IDC_STATIC,159,86,62,8
+    LTEXT           "Rate TBD",IDC_STATIC_Coinc_Count_Rate,229,86,39,8,0,WS_EX_TRANSPARENT
+    LTEXT           "Top Detector Rate:",IDC_STATIC,159,70,61,8
+    LTEXT           "Rate TBD",IDC_STATIC_TopHead_Count_Rate,228,70,38,8,0,WS_EX_TRANSPARENT
+    LTEXT           "Bottom Detector Rate:",IDC_STATIC,277,70,72,8
+    LTEXT           "Rate TBD",IDC_STATIC_BottomHead_Count_Rate,358,70,44,8,0,WS_EX_TRANSPARENT
+    PUSHBUTTON      "Reset FPGA",IDC_BUTTON_FPGA_Reset,368,241,51,18
+    GROUPBOX        "Study Information",IDC_STATIC,16,109,215,91
+    LTEXT           "Study Name:",IDC_STATIC,21,125,42,8
+    EDITTEXT        IDC_EDIT_Study_Name,65,122,161,14,ES_AUTOHSCROLL
+    LTEXT           "(choose path below)",IDC_STATIC,73,146,66,8
+    EDITTEXT        IDC_EDIT_File_Path,21,160,205,14,ES_AUTOHSCROLL
+    LTEXT           "List mode data and acquisition statistics will be saved using the study name as 2 seperate files in the folder shown above. ",IDC_STATIC,22,178,203,19
+    LTEXT           "Event Threshold:",IDC_STATIC,138,241,53,8
+    EDITTEXT        IDC_EDIT_FPGA_Event_Threshold,218,239,26,12,ES_AUTOHSCROLL
+    LTEXT           "Blocking Time(ns):",IDC_STATIC,138,274,58,8
+    EDITTEXT        IDC_EDIT_FPGA_Blocking_Time,218,272,26,12,ES_AUTOHSCROLL
+    LTEXT           "Noise Threshold:",IDC_STATIC,138,224,54,8
+    EDITTEXT        IDC_EDIT_FPGA_Noise_Threshold,218,222,26,12,ES_AUTOHSCROLL
+    LTEXT           "Integration Time(ns):",IDC_STATIC,138,259,64,8
+    EDITTEXT        IDC_EDIT_FPGA_Integration_Time,218,256,26,12,ES_AUTOHSCROLL
+    LTEXT           "System Information will be displayed here.",IDC_STATIC_System_Information,9,339,419,12
+    PUSHBUTTON      "Apply Settings",IDC_BUTTON_FPGA_Apply_Settings,368,219,51,19
+    LTEXT           "Coinc. Time Window(ns):",IDC_STATIC,138,289,80,8
+    EDITTEXT        IDC_EDIT_FPGA_Coinc_Window,218,287,26,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Choose Directory",IDC_BUTTON_Choose_Path,144,142,77,14
+    GROUPBOX        "PET Mode",IDC_STATIC,16,209,109,51
+    CONTROL         "Singles",IDC_RADIO_Singles,"Button",BS_AUTORADIOBUTTON,24,242,68,10
+    CONTROL         "Coincidence",IDC_RADIO_Coinc,"Button",BS_AUTORADIOBUTTON,24,223,75,10
+    GROUPBOX        "Channel Offset",IDC_STATIC,251,219,113,84
+    LTEXT           "Ch1",IDC_STATIC,258,234,13,8
+    EDITTEXT        IDC_EDIT_FPGA_ch1_offset,272,232,26,12,ES_AUTOHSCROLL
+    LTEXT           "Ch2",IDC_STATIC,258,252,13,8
+    EDITTEXT        IDC_EDIT_FPGA_ch2_offset,272,250,26,12,ES_AUTOHSCROLL
+    LTEXT           "Ch3",IDC_STATIC,258,270,13,8
+    EDITTEXT        IDC_EDIT_FPGA_ch3_offset,272,268,26,12,ES_AUTOHSCROLL
+    LTEXT           "Ch4",IDC_STATIC,258,289,13,8
+    EDITTEXT        IDC_EDIT_FPGA_ch4_offset,272,287,26,12,ES_AUTOHSCROLL
+    LTEXT           "Ch5",IDC_STATIC,313,233,13,8
+    EDITTEXT        IDC_EDIT_FPGA_ch5_offset,327,231,26,12,ES_AUTOHSCROLL
+    LTEXT           "Ch6",IDC_STATIC,313,251,13,8
+    EDITTEXT        IDC_EDIT_FPGA_ch6_offset,327,250,26,12,ES_AUTOHSCROLL
+    LTEXT           "Ch7",IDC_STATIC,313,269,13,8
+    EDITTEXT        IDC_EDIT_FPGA_ch7_offset,327,267,26,12,ES_AUTOHSCROLL
+    LTEXT           "Ch8",IDC_STATIC,313,288,13,8
+    EDITTEXT        IDC_EDIT_FPGA_ch8_offset,327,286,26,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Program FPGA",IDC_BUTTON_Prog_FPGA,368,263,51,18
+    PUSHBUTTON      "Change FPGA",IDC_BUTTON_Change_FPGA,368,285,51,18
+    LTEXT           "",IDC_STATIC_System_Information2,9,323,419,12
+    COMBOBOX        IDC_COMBO_TIMESCALE,388,142,25,30,CBS_DROPDOWNLIST | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    CTEXT           "0",IDC_STATIC_Elapsed_Time2,10,12,94,38,0,WS_EX_TRANSPARENT
+    LTEXT           "Random Rate(cps):",IDC_STATIC,277,86,62,8
+    LTEXT           "Rate TBD",IDC_STATIC_Random_Rate,358,86,39,8,0,WS_EX_TRANSPARENT
+    GROUPBOX        "Timer Settings",IDC_STATIC,15,266,109,43
+    COMBOBOX        IDC_COMBO_TIMER_PERIOD,74,285,41,42,CBS_DROPDOWNLIST | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Timer Interval:",IDC_STATIC,19,287,45,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904e4"
+        BEGIN
+            VALUE "CompanyName", "TODO: <Company name>"
+            VALUE "FileDescription", "TODO: <File description>"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "PETBoxControlUI.exe"
+            VALUE "LegalCopyright", "TODO: (c) <Company name>.  All rights reserved."
+            VALUE "OriginalFilename", "PETBoxControlUI.exe"
+            VALUE "ProductName", "TODO: <Product name>"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1252
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 63
+    END
+
+    IDD_PETBOXCONTROLUI_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 435
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 353
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP                  "res\\bigmouse.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_PETBOXCONTROLUI_DIALOG DLGINIT
+BEGIN
+    IDC_COMBO_TIMESCALE, 0x403, 4, 0
+0x696d, 0x006e, 
+    IDC_COMBO_TIMESCALE, 0x403, 2, 0
+0x0073, 
+    IDC_COMBO_TIMER_PERIOD, 0x403, 5, 0
+0x3532, 0x736d, "\000" 
+    IDC_COMBO_TIMER_PERIOD, 0x403, 5, 0
+0x3033, 0x736d, "\000" 
+    IDC_COMBO_TIMER_PERIOD, 0x403, 5, 0
+0x3034, 0x736d, "\000" 
+    IDC_COMBO_TIMER_PERIOD, 0x403, 5, 0
+0x3035, 0x736d, "\000" 
+    IDC_COMBO_TIMER_PERIOD, 0x403, 5, 0
+0x3036, 0x736d, "\000" 
+    IDC_COMBO_TIMER_PERIOD, 0x403, 5, 0
+0x3037, 0x736d, "\000" 
+    IDC_COMBO_TIMER_PERIOD, 0x403, 5, 0
+0x3038, 0x736d, "\000" 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_ABOUTBOX            "&About PETBoxControlUI..."
+END
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE 4, 2
+#pragma code_page(936)
+#include "res\PETBoxControlUI.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"     // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
