@@ -1,0 +1,269 @@
+[Workspace Header]
+Version = 1000
+Pathname Line0001 = "/c/Users/Nam/Dropbox/Genisys 4/Software/G4 Acquisition/Atlas Registration/sofie_"
+Pathname Line0002 = "G4Reg_CVI_1221/X_Ray_Atlas_Registration.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2010"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2010"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "X_Ray_Atlas_Registration.prj"
+Drag Bar Left = 233
+Window Top = 139
+Window Left = 1707
+Window Bottom = 596
+Window Right = 2497
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 7
+Window Confinement Region Enabled = True
+MainColumnWidth = 216
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 1000
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Release"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path Line0001 = "/c/Users/Nam/Dropbox/Genisys 4/Software/G4 Acquisition/Atlas Registration/sofie_"
+Path Line0002 = "G4Reg_CVI_1221/GlobalDefs.h"
+File Type = "Include"
+Disk Date = 3408145345
+In Projects = "1,"
+Window Top = 38
+Window Left = 11
+Window Z-Order = 3
+Source Window State = "1,83,83,83,40,51,40,0,0,80,0,0,0,0,0,16,2,0,92,31,232,683,1,0,"
+
+[File 0002]
+Path Line0001 = "/c/Users/Nam/Dropbox/Genisys 4/Software/G4 Acquisition/Atlas Registration/sofie_"
+Path Line0002 = "G4Reg_CVI_1221/Headers.h"
+File Type = "Include"
+Disk Date = 3406416330
+In Projects = "1,"
+Window Top = 74
+Window Left = 30
+Window Z-Order = 6
+Source Window State = "1,6,26,6,0,5,0,0,0,80,0,18,0,0,0,16,0,0,47,34,232,683,1,26,"
+
+[File 0003]
+Path Line0001 = "/c/Users/Nam/Dropbox/Genisys 4/Software/G4 Acquisition/Atlas Registration/sofie_"
+Path Line0002 = "G4Reg_CVI_1221/atlasRegistration.h"
+File Type = "Include"
+Disk Date = 3407963419
+In Projects = "1,"
+Window Top = 74
+Window Left = 30
+Window Z-Order = 5
+Source Window State = "1,38,38,38,0,9,9,0,0,80,0,0,0,0,0,25,3,0,24,31,349,683,1,0,"
+
+[File 0004]
+Path Line0001 = "/c/Users/Nam/Dropbox/Genisys 4/Software/G4 Acquisition/Atlas Registration/sofie_"
+Path Line0002 = "G4Reg_CVI_1221/GlobalDecls.h"
+File Type = "Include"
+Disk Date = 3408143005
+In Projects = "1,"
+Window Top = 74
+Window Left = 30
+Window Z-Order = 4
+Source Window State = "1,16,16,16,54,55,54,0,0,80,0,78,0,78,0,16,0,0,5,45,232,683,1,0,"
+
+[File 0005]
+Path Line0001 = "/c/Users/Nam/Dropbox/Genisys 4/Software/G4 Acquisition/Atlas Registration/sofie_"
+Path Line0002 = "G4Reg_CVI_1221/AtlasRegistrationMain.c"
+File Type = "CSource"
+Disk Date = 3409150075
+In Projects = "1,"
+Window Top = 160
+Window Left = 106
+Window Z-Order = 1
+Source Window State = "1,1255,1255,1255,0,20,20,0,0,176,0,2,0,2,0,70,1239,0,1254,33,349,683,1,0,"
+
+[File 0006]
+Path Line0001 = "/c/Users/Nam/Dropbox/Genisys 4/Software/G4 Acquisition/Atlas Registration/sofie_"
+Path Line0002 = "G4Reg_CVI_1221/imageCorrection.c"
+File Type = "CSource"
+Disk Date = 3407963422
+In Projects = "1,"
+Window Top = 38
+Window Left = 11
+Window Z-Order = 2
+Source Window State = "1,272,272,272,28,29,28,0,0,60,0,640,0,640,0,23,85,0,277,63,323,517,1,0,"
+
+[File 0007]
+Path Line0001 = "/c/Users/Nam/Dropbox/Genisys 4/Software/G4 Acquisition/Atlas Registration/sofie_"
+Path Line0002 = "G4Reg_CVI_1221/Mesh.c"
+File Type = "CSource"
+Disk Date = 3407945373
+In Projects = "1,"
+Window Top = 38
+Window Left = 11
+Window Z-Order = 7
+Source Window State = "1,365,365,365,55,56,56,0,0,80,0,287,0,0,0,25,353,2,371,50,349,683,1,0,"
+
+[File 0008]
+Path Line0001 = "/c/Users/Nam/Dropbox/Genisys 4/Software/G4 Acquisition/Atlas Registration/sofie_"
+Path Line0002 = "G4Reg_CVI_1221/AtlasRegistrationMain.h"
+File Type = "Include"
+Disk Date = 3402519492
+In Projects = "1,"
+Window Top = 38
+Window Left = 11
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,6,29,349,683,1,0,"
+
+[File 0009]
+Path Line0001 = "/c/Users/Nam/Dropbox/Genisys 4/Software/G4 Acquisition/Atlas Registration/sofie_"
+Path Line0002 = "G4Reg_CVI_1221/AtlasRegistrationMain.uir"
+File Type = "User Interface Resource"
+Disk Date = 3402519492
+In Projects = "1,"
+Window Top = 38
+Window Left = 11
+Window Height = 349
+Window Width = 683
+
+[File 0010]
+Path Line0001 = "/c/Users/Nam/Dropbox/Genisys 4/Software/G4 Acquisition/Atlas Registration/sofie_"
+Path Line0002 = "G4Reg_CVI_1221/G4_Reg_XrayCam.dll"
+File Type = "DLL"
+Disk Date = 3407969153
+In Projects = "1,"
+
+[File 0011]
+Path Line0001 = "/c/Users/Nam/Dropbox/Genisys 4/Software/G4 Acquisition/Atlas Registration/sofie_"
+Path Line0002 = "G4Reg_CVI_1221/G4_Reg_XrayCam.h"
+File Type = "Include"
+Disk Date = 3407873727
+In Projects = "1,"
+Window Top = 36
+Source Window State = "1,9,15,9,6,69,6,0,0,0,0,0,0,0,0,0,0,0,20,53,400,600,1,0,"
+
+[File 0012]
+Path Line0001 = "/c/Users/Nam/Dropbox/Genisys 4/Software/G4 Acquisition/Atlas Registration/sofie_"
+Path Line0002 = "G4Reg_CVI_1221/G4_Reg_XrayCam.lib"
+File Type = "Library"
+Disk Date = 3407969152
+In Projects = "1,"
+
+[File 0013]
+Path Line0001 = "/c/Users/Nam/Dropbox/Genisys 4/Software/G4 Acquisition/Atlas Registration/sofie_"
+Path Line0002 = "G4Reg_CVI_1221/rebin2D.c"
+File Type = "CSource"
+Disk Date = 3406526386
+In Projects = "1,"
+Window Top = 36
+Source Window State = "1,70,70,70,44,47,47,0,0,0,0,0,0,0,0,0,0,0,9,59,400,600,1,0,"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[DLLs Used By Executable 0001]
+DLL 0001 = "/c/SHANG SHANG/Atlas Registration/Code/sofie_G4Reg_CVI_1221/G4_Reg_XrayCam.dll"
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+
+[Distributions]
+Active Index = 1
+AbsCDSPath 0001 Line0001 = "/c/Users/Nam/Dropbox/Genisys 4/Software/G4 Acquisition/Atlas Registration/sofie_"
+AbsCDSPath 0001 Line0002 = "G4Reg_CVI_1221/X_Ray_Atlas_Registration.cds"
+RelCDSPath 0001 = "X_Ray_Atlas_Registration.cds"
+
